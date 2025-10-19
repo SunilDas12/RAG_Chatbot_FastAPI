@@ -3,7 +3,7 @@ myenv/
 
 # Database files
 rag_app.db
-chroma_db
+chroma_db/
 
 # Log files
 app.log
