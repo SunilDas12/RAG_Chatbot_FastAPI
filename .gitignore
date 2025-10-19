@@ -1,2 +1,9 @@
 myenv/
 .env
+
+# Database files
+rag_app.db
+croma_db
+
+# Log files
+app.log
